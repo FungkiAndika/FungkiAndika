@@ -1,4 +1,5 @@
-# Hello, I'm Fungki Andika
+![](./img/github-header-image.png)
+# Hello, I'm Fungki
 
 ### My Skills:
 <div>
@@ -11,6 +12,10 @@
 </div>
 <div  align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fungkiandika&layout=compact"></img>
+    <br></br>
+</div>
+
+
 </div>
 <!-- <p align="center">
   <a href="https://skillicons.dev">
