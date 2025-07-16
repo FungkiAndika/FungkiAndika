@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img>
     <br></br>
 </div>
+
 ## 👨‍💻 Languages I use:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FungkiAndika&repo=portfolio-website&layout=compact&langs_count=8&theme=gruvbox)
