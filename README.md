@@ -25,3 +25,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,py" />
   </a>
 </p> -->
+
+![Top Language](https://img.shields.io/github/languages/top/<OWNER>/<REPO>)
