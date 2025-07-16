@@ -26,4 +26,4 @@
   </a>
 </p> -->
 
-![Top Language](https://img.shields.io/github/languages/top/<OWNER>/<REPO>)
+![Top Language](https://img.shields.io/github/languages/top/<FungkiAndika>/<REPO>)
