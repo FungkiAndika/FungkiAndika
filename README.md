@@ -19,13 +19,6 @@
 </div>
 
 
-</div>
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,py" />
-  </a>
-</p> -->
-
-## 👨‍💻 Bahasa yang Saya Gunakan
+## 👨‍💻 Languages I use:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FungkiAndika&repo=portfolio-website&layout=compact&langs_count=8&theme=gruvbox)
