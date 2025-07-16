@@ -26,4 +26,6 @@
   </a>
 </p> -->
 
-![Top Language](https://img.shields.io/github/languages/top/<FungkiAndika>/<REPO>)
+## 👨‍💻 Bahasa yang Saya Gunakan
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FungkiAndika&repo=portfolio-website&layout=compact&langs_count=8&theme=gruvbox)
